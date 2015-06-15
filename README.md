@@ -1,3 +1,5 @@
 # turingmachine
 
-will run in Xcode. It is a Universal Turing Machine. Test files included. 
+Will run in Xcode. Test files included in the "test" folder".
+Word document included with program requirements.
+
